@@ -2,7 +2,7 @@
 generar un diagrama de barras verticales usando asteriscos
 
 
-EJEMPLO:
+EJEMPLO: abrir el readme para visulaizar mejor el diagrama de barras
 
 10  *   *     *
 8   * * * *   *
